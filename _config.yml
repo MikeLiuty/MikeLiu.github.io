@@ -4,7 +4,7 @@ email:       mikeliuty@outlook.com
 author:      Mike Liu, based on "John Otander" Pixyll
 description: "My life as a life-long learner"
 baseurl:     ""
-url:         "https://mikeliuty.github.io"
+url:         "https://mikeliuty.github.io/"
 date_format: "%-d %b, %Y" # Printf format string
 header_pages:
  - about.md

@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
-categories: jekyll pixyll
+title:      Netflix Recommender System
+date:       2016-08-21
+summary:    Review of "The Netflix Recommender System: Althorithms, Business Value, and Innovation"
+categories: Product Review
 ---
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've released version `2.0`.

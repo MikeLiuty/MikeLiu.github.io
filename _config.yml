@@ -1,7 +1,7 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Mike Liu's Blog
+email:       mikeliuty@outlook.com
+author:      Mike Liu, based on "John Otander" Pixyll
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://pixyll.com"

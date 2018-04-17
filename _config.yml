@@ -2,10 +2,10 @@
 title:       Mike Liu's Blog
 email:       mikeliuty@outlook.com
 author:      Mike Liu, based on "John Otander" Pixyll
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "My life as a life-long learner"
 baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
+url:         ""
+date_format: "%-d %b, %Y" # Printf format string
 header_pages:
  - about.md
  - contact.html
@@ -51,7 +51,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: 
 reddit_username:
 bitbucket_username:
 stackoverflow_id:

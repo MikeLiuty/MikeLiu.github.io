@@ -27,3 +27,9 @@ categories: Product Review
 9. Related work. In this function, the system can do machine learning techniques from the streaming data on the website to make the recommend system better.
 
 By following the rules of the system, I think YouTube has the similar recommend system. But different to Netflix, YouTube is more focusing on the trending videos, so the system will recommend more trending videos than Top-N videos. And by type of videos watched on YouTube, the ads before videos will be changed as well.
+
+### Reference
+
+* Gomez-Uribe, C. A., & Hunt, N. (2016). The Netflix recommender system: Algorithms, business value, and innovation. ACM Transactions on Management Information Systems (TMIS), 6(4), 13.
+
+* (n.d.). Retrieved August 21, 2016, from http://www.imdb.com/title/tt0478970/?ref_=nv_sr_1
